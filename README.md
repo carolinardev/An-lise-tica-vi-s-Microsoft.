@@ -1,4 +1,4 @@
-# Anlise-ética-viés-Microsoft.
+# Analise-ética-viés-Microsoft.
 
 Um chatbot pode reforçar preconceitos?
  Analisamos o caso do Microsoft Tay, que rapidamente passou a replicar discursos de ódio no Twitter — um alerta importante sobre os desafios da inteligência artificial.
